@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tayaba Saleem Tahir",
+    "section": "",
+    "text": "This is a Tayaba Saleem Tahir website.\n\nplot(mtcars)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a graduate student working toward Data Analytics. My goals is to gain the technical skills in my master program and take those skill back to work place to improve process. This program will help me gain news skill\n\nplot(iris)"
+  }
+]
